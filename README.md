@@ -21,7 +21,11 @@ Plug-in features
 
 Notices: if cohesive elements are not on the boundaries(interfaces), you can insert elements only once for the origin part.
 
-Trial and Purchase
+More details can be found at 
+https://abaquscohesiveelementplugin.quora.com/An-ABAQUS-Plug-in-for-Generating-Cohesive-Elements
+
+
+Trial download and Purchase
 
 The installation of ABAQUS plug-ins can be found by Google. Before the plug-in is activated by the license file, it can only be used for parts with no more than 1000 elements. There will be no limits on the number of elements and use time after activating.
 Applicable to abaqus6.14 and above.
