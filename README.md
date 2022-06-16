@@ -31,4 +31,3 @@ The installation of ABAQUS plug-ins can be found by Google. Before the plug-in i
 Applicable to abaqus6.14 and above.
 Any questions about the Plug-in, please contact the author by Skype “live:672366751”
 or Email 672366751@qq.com (mailto:672366751@qq.com)
-https://drive.google.com/file/d/1iZR7JLpRApLR7mj-WEejFs0o31NJq5u9/view?usp=sharing
