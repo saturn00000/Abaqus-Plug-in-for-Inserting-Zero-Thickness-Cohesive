@@ -1,4 +1,4 @@
-# Abaqus-Plug-in-for-Cohesive-Elements
+# Abaqus-Plug-in-for-Inserting-Zero-Thickness-Cohesive
 
 An ABAQUS Plug-in for Generating Cohesive Elements
 
