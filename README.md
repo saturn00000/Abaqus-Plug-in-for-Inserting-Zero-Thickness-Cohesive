@@ -27,7 +27,6 @@ https://abaquscohesiveelementplugin.quora.com/An-ABAQUS-Plug-in-for-Generating-C
 Video tutorial
 https://youtu.be/Pqs16uhnaWs
 
-
 Trial download and Purchase
 
 The installation of ABAQUS plug-ins can be found by Google. Before the plug-in is activated by the license file, it can only be used for parts with no more than 1000 elements. There will be no limits on the number of elements and use time after activating.
