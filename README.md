@@ -24,6 +24,9 @@ Notices: if cohesive elements are not on the boundaries(interfaces), you can ins
 More details can be found at 
 https://abaquscohesiveelementplugin.quora.com/An-ABAQUS-Plug-in-for-Generating-Cohesive-Elements
 
+Video tutorial
+https://youtu.be/Pqs16uhnaWs
+
 
 Trial download and Purchase
 
